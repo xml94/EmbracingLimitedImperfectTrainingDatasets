@@ -4,6 +4,16 @@
 Currently maintained by [Mingle Xu](https://xml94.github.io/ "Personal website").
 
 # Motivation
+>Recent advancements in deep learning have brought significant improvements to plant disease recognition.
+However, achieving satisfactory performance often requires high-quality training datasets, 
+which are challenging and expensive to collect. 
+Consequently, the practical application of current deep learning-based methods in real-world scenarios 
+is hindered by the scarcity of high-quality datasets.
+Therefore, we argue that embracing non-high-quality datasets is more convincing and practical.
+Although this embrace brings opportunities, new challenges exist.
+A taxonomy of related challenges is, therefore, proposed to enrich our understandings.
+With this perspective, we do hope that deep learning can be implemented 
+in real-world applications with satisfactory performance.
 
 # Taxonomy and definitions of the challenges
 * Limited data: consider images only and no annotations.
