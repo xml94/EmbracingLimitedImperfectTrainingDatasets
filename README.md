@@ -1,4 +1,4 @@
-# EmbraceLimitedImperfectData
+# EmbracingLimitedImperfectData
 
 Embrace limited and imperfect data in plant disease recognition using deep learning.
 
