@@ -1,6 +1,6 @@
 # EmbracingLimitedImperfectDatasets
 
-Embrace limited and imperfect data in plant disease recognition using deep learning.
+Embracing limited and imperfect datasets in plant disease recognition using deep learning.
 
 Currently maintained by [Mingle Xu](https://xml94.github.io/ "Personal website").
 
