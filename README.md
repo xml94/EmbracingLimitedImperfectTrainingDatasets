@@ -4,6 +4,8 @@ Embracing limited and imperfect datasets in plant disease recognition using deep
 
 Currently maintained by [Mingle Xu](https://xml94.github.io/ "Personal website").
 
+**We are collecting public plant disease datasets in [PPDRD project](https://github.com/xml94/PPDRD).**
+
 # Motivation
 >Recent advancements in deep learning have brought significant improvements to plant disease recognition.
 However, achieving satisfactory performance often requires high-quality training datasets, 
